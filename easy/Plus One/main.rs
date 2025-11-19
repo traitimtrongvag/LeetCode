@@ -1,5 +1,6 @@
 // 66. Plus one
-fn plus_one(mut digits: Vec<i32>) -> Vec<i32> {
+impl Solution {
+    pub fn plus_one(mut digits: Vec<i32>) -> Vec<i32> {
     let mut i = digits.len();
     while i > 0 {
         i -= 1;
@@ -12,4 +13,5 @@ fn plus_one(mut digits: Vec<i32>) -> Vec<i32> {
     let mut result = vec![1];
     result.extend(digits);
     result
+}
 }
