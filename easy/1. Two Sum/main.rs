@@ -1,4 +1,4 @@
-// 2 Two Sum
+// 1. Two Sum
 use std::collections::HashMap;
 
 impl Solution {

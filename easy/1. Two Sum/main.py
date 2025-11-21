@@ -1,4 +1,4 @@
-# 2. Two Sum
+# 1. Two Sum
 class Solution(object):
     def twoSum(self, nums, target):
         num_map = {}
