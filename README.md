@@ -1,7 +1,9 @@
 <p align="center">
 This is where I post my LeetCode solutions every day
 </p>
-## <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Statistics
+
+### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Statistics
+
 ```bash
 Array                     74 solutions   █████████████████████████   69.81 %
 Hash Table                26 solutions   ████████░░░░░░░░░░░░░░░░░   24.53 %
