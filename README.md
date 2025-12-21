@@ -6,7 +6,7 @@ This is where I post my LeetCode solutions every day
 
 ### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Statistics
 
-```bash
+```text
 Array                     74 solutions   █████████████████████████   69.81 %
 Hash Table                26 solutions   ████████░░░░░░░░░░░░░░░░░   24.53 %
 Math                      26 solutions   ████████░░░░░░░░░░░░░░░░░   24.53 %
@@ -55,4 +55,4 @@ Line Sweep                 1 solutions   ░░░░░░░░░░░░░
 Ordered Set                1 solutions   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 Union Find                 1 solutions   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 Graph                      1 solutions   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-```
+``` 
